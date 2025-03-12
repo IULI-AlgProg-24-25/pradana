@@ -1,6 +1,7 @@
 // Class is the template of an object
 // Object is the instantiation of a class
 // Class has: data/field and behavior/action/function/method
+// access modifier: public, private, protected, internal
 public class Car
 {
     // data/fields
